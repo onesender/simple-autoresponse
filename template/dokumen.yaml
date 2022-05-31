@@ -1,0 +1,3 @@
+trigger: /dokumen
+response_type: document
+response_media_link: https://onesender.net/dummy/dummy.pdf

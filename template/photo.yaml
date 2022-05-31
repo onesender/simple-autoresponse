@@ -1,0 +1,4 @@
+trigger: /photo
+response_type: image
+response_message: "Caption gambar"
+response_media_link: https://onesender.net/dummy/dummy.png

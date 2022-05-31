@@ -1,0 +1,4 @@
+trigger: /kontak
+response_type: text
+response_message: "Terima kasih admin kami akan menghubungi Anda
+"

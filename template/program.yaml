@@ -1,0 +1,18 @@
+trigger: /program
+response_type: list
+response_message: "Kami memiliki program berikut:"
+response_message_footer: "Pilihan Program"
+list_label: "Program"
+list:
+  - 
+    title: Unggulan
+    options:
+      - Sekolah | Di kabupaten Merauke
+      - Rumah Sakit | Di kabupaten Merauke
+      - Penghijauan | Di kabupaten Merauke
+
+  - 
+    title: Pembangunan
+    options:
+      - Jembatan | Pembangunan jembatan
+      - Jalan | Pembangunan Jalan

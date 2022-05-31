@@ -1,0 +1,10 @@
+trigger: /menu
+response_type: button
+response_message: "Terima kasih telah menghubungi kami. 
+Berikut ini menu yang bisa dicoba"
+response_message_footer: "Pilihan menu"
+buttons:
+  - /program
+  - /kontak
+  - /photo
+  - /dokumen
